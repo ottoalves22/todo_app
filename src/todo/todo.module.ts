@@ -6,4 +6,4 @@ import { TodoService } from './todo.service';
   controllers: [TodoController],
   providers: [TodoService],
 })
-export class AppModule {}
+export class TodoModule {}
